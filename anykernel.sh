@@ -10,9 +10,9 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=fog
-device.name2=rain
-device.name3=wind
+device.name1=moonstone
+device.name2=stone
+device.name3=sunstone
 supported.versions=
 supported.patchlevels=
 '; } # end properties
